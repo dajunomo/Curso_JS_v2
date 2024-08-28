@@ -9,4 +9,6 @@ const resta = 1 - 3 // es operador aricmetico de la resta
 const multiplicacion = 1 * 3 // es operador aricmetico de la multiplicación
 const division = 1 / 3 // es operador aricmetico de la división
 const resto = 5 % 2 // operador aricmetco de producto
+const exponente= 3 ** 3 // operador de la exponenciacion
+
 
