@@ -1,29 +1,15 @@
+// sintaxis de variable
 
 
-// OPERADORES
+const $variable = 'Nombre';
+const variable = 'Nombre';
+const Variable = 'Nombre';
+const _variable = 'Nombre';
 
-const variable = 'Valor de la variable';  //operador de asignacion
+/*
+    Reglas
+    1) se puede iniciar con $, minuscula, mayuscula y _
+    2) no se puede iniciar con numeros pero si usarlos en el resto del nombre
+    3) no se puede usar caracteres especiales salvo $ y _
 
-const suma = 1 + 3 // es operador aricmetico de la suma
-const resta = 1 - 3 // es operador aricmetico de la resta
-const multiplicacion = 1 * 3 // es operador aricmetico de la multiplicación
-const division = 1 / 3 // es operador aricmetico de la división
-const resto = 5 % 2 // operador aricmetco de producto
-const exponente= 3 ** 3 // operador de la exponenciacion
-
-let  x =5;
-let y= 5;
-
-
-x++;
-y--;
-
-
-console.log(suma);
-console.log(resta); 
-console.log(multiplicacion); 
-console.log(division) ;
-console.log(resto) ;
-console.log(exponente); 
-console.log(x);
-console.log(y)  ;
+*/
